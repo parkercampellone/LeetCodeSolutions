@@ -1,0 +1,11 @@
+* should:
+    - know what character it is
+    - be able to act as an emtpy string.
+    -
+
+
+
+. should:
+    act as any character
+
+the program should know how many stars are needed.
